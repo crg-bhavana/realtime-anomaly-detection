@@ -121,6 +121,15 @@ This system reflects real-world observability pipelines used in production envir
 
 ---
 
+## Limitations
+
+- Evaluation is based on simulated data and may not fully reflect real-world production traffic patterns  
+- Isolation Forest may produce false positives during seasonal or non-stationary changes in system behavior  
+- Current implementation writes results to CSV files rather than integrating with a real-time monitoring or alerting system  
+- Limited hyperparameter tuning was performed, which may impact detection performance  
+
+---
+
 ## Example Streaming Output
 
 ```json
