@@ -1,10 +1,5 @@
 # Real-Time Data Processing & Anomaly Detection System
 
-## Bhavana Chikkamuduvadi Renuka Gowda
-
-**Data Scientist | Machine Learning | Real-Time Systems**
-
----
 
 ## Overview
 
